@@ -5,7 +5,7 @@ Here, you’ll find examples of my work in data analytics, data visualization, a
 
 ## Projects
 
-### [Data Visualization for Citi Bike using Tableau](./Tableau)  
+### [Data Visualization for Citi Bike using Tableau](./Citibike_Data Analysis Presentation_Group3.pptx)  
 **Year:** 2025  
 
 **Summary:** This was a group project where we collaboratively analyzed Citi Bike usage data using Tableau. We created an interactive dashboard to visualize trends such as usage by day, user type, and trip duration. I contributed to the data exploration and led the design of the PowerPoint presentation, which summarized our key findings and insights.  
