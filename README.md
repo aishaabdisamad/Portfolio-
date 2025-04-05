@@ -1,9 +1,11 @@
-# Project Portfolio
-Welcome! This portfolio showcases a selection of my recent projects in technology and business, two areas I'm deeply passionate about. By pursuing a degree in Management Information Systems, I’ve found the perfect way to bring both worlds together.  
+# Aisha's Project Portfolio 👋
+Welcome 🤗
+
+This portfolio showcases a few of my recent projects in technology and business, which are two areas I'm deeply passionate about. By pursuing a degree in Management Information Systems, I’ve found the perfect way to bring both worlds together!
 
 Here, you’ll find examples of my work in data analytics, data visualization, and practical tech-driven business solutions. Each project highlights my ability to bridge technical skills with business insights.
 
-## Projects
+## Projects 💻
 
 ### [Data Visualization for Citi Bike using Tableau](./TableauSlides)  
 **Year:** 2025  
@@ -34,3 +36,7 @@ Here, you’ll find examples of my work in data analytics, data visualization, a
 
 **Summary:** This individual university assignment involved building five Python programs to apply core programming concepts in a business context. Tasks included calculating compound interest, generating employee paychecks with overtime and tax, converting CAD to USD using real-world exchange rates, and visualizing store sales with asterisks in a bar chart format. I followed structured design, used functions, and documented my work through screenshots and code explanations in a Word report.
 **Skills:** Python, Functions, Loops, User Input, Compound Interest Calculation, Currency Conversion, Microsoft Word, Visual Studio Code.
+
+## Thank You For Stopping by!
+
+If you would like to see more details about the porjects please press the embedded links above or feel free to contact me 😄
