@@ -39,4 +39,4 @@ Here, you’ll find examples of my work in data analytics, data visualization, a
 
 ## Thank You For Stopping by!
 
-If you would like to see more details about the porjects please press the embedded links above or feel free to contact me 😄
+If you would like to see more details about the porjects please press the embedded links above or feel free to contact me, I am always open for a chat! 😄
