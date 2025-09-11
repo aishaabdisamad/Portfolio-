@@ -11,6 +11,7 @@ Here, you’ll find examples of my work in data analytics, data visualization, a
 **Year:** 2025  
 
 **Summary:** This was a group project where we collaboratively analyzed Citi Bike usage data using Tableau. We created an interactive dashboard to visualize trends such as usage by day, user type, and trip duration. I contributed to the data exploration and led the design of the PowerPoint presentation, which summarized our key findings and insights.  
+
 **Skills:** Tableau, Data Visualization, Dashboard Design, Team Collaboration, Presentation Development.  
 
 ### [Data Analytics using Python, Pandas, and Matplotlib](./DataAnalytics)  
@@ -23,18 +24,21 @@ Here, you’ll find examples of my work in data analytics, data visualization, a
 **Year:** 2025
 
 **Summary:** This beginner-level Python project simulates a real-world order system for a Canadian maple syrup brand, Escuminac. The user is prompted to select syrup types, quantities, and a shipping method, and then receives a complete invoice including shipping cost, GST, and total. This project demonstrates my strong use of functions, user input validation, dictionaries, and formatted output.  
+
 **Skills:** Python, Functions, Input Validation, Dictionaries, JupyterLab, Programming Logic.
 
 ### [Hotel Sales Analysis for Paradise Hotels using Excel](./HotelSalesAnalysis)
 **Year:** 2024  
 
 **Summary:** This school assignment was based on sales data from Paradise Hotels, a Canadian hotel chain with branches in Ottawa and Toronto. Using Excel, I calculated monthly sales, analyzed KPIs for 2023 based on 2022 performance, and created visual summaries using Sparklines and charts. I also cleaned five years of historical data, built pivot tables, and applied conditional formatting to highlight sales trends. A written report was included to summarize insights and compare performance across both locations.  
+
 **Skills:**  Excel, Data Cleaning, Pivot Tables, KPI Analysis, Chart Design, Sparklines, Conditional Formatting, Dashboard Creation, Microsoft Word.
 
 ### [Introduction to Python](./Python)
 **Year:** 2024  
 
 **Summary:** This individual university assignment involved building five Python programs to apply core programming concepts in a business context. Tasks included calculating compound interest, generating employee paychecks with overtime and tax, converting CAD to USD using real-world exchange rates, and visualizing store sales with asterisks in a bar chart format. I followed structured design, used functions, and documented my work through screenshots and code explanations in a Word report.
+
 **Skills:** Python, Functions, Loops, User Input, Compound Interest Calculation, Currency Conversion, Microsoft Word, Visual Studio Code.
 
 ### [R Statistical Modeling Projects (STAT 2602)](./R_StatsProjects)
@@ -42,6 +46,7 @@ Here, you’ll find examples of my work in data analytics, data visualization, a
 **Year:** 2025  
 
 **Summary:** This series of assignments showcases my ability to apply **R for business analyticss**. Topics include exploratory data analysis, ANOVA, multiple regression, model selection, logistic and Poisson regression, and time series forecasting. Each project involved interpreting outputs, building models, and presenting findings in a clear and business-focused way.  
+
 **Skills:** R, ggplot2, dplyr, readr, olsrr, forecast, Statistical Modeling, Data Visualization, Hypothesis Testing, Regression, Time Series
 
 ## Thank You For Stopping by 🌸
