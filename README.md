@@ -37,6 +37,13 @@ Here, you’ll find examples of my work in data analytics, data visualization, a
 **Summary:** This individual university assignment involved building five Python programs to apply core programming concepts in a business context. Tasks included calculating compound interest, generating employee paychecks with overtime and tax, converting CAD to USD using real-world exchange rates, and visualizing store sales with asterisks in a bar chart format. I followed structured design, used functions, and documented my work through screenshots and code explanations in a Word report.
 **Skills:** Python, Functions, Loops, User Input, Compound Interest Calculation, Currency Conversion, Microsoft Word, Visual Studio Code.
 
+### [R Statistical Modeling Projects (STAT 2602)](./R_StatsProjects)
+
+**Year:** 2025  
+
+**Summary:** This series of assignments showcases my ability to apply **R for business analyticss**. Topics include exploratory data analysis, ANOVA, multiple regression, model selection, logistic and Poisson regression, and time series forecasting. Each project involved interpreting outputs, building models, and presenting findings in a clear and business-focused way.  
+**Skills:** R, ggplot2, dplyr, readr, olsrr, forecast, Statistical Modeling, Data Visualization, Hypothesis Testing, Regression, Time Series
+
 ## Thank You For Stopping by 🌸
 
 If you would like to see more details about the projects please press the embedded links above or feel free to contact me, I am always open for a chat! 😄
