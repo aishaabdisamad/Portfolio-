@@ -13,7 +13,7 @@ Here, you’ll find examples of my work in data analytics, data visualization, a
 **Summary:** This was a group project where we collaboratively analyzed Citi Bike usage data using Tableau. We created an interactive dashboard to visualize trends such as usage by day, user type, and trip duration. I contributed to the data exploration and led the design of the PowerPoint presentation, which summarized our key findings and insights.  
 **Skills:** Tableau, Data Visualization, Dashboard Design, Team Collaboration, Presentation Development.  
 
-### [Data Analytics using Python, Pandas, and Matplotlib](./AishaAbdisamad_DataAnalytics)  
+### [Data Analytics using Python, Pandas, and Matplotlib](./DataAnalytics)  
 **Year:** 2025  
 
 **Summary:** In this project, I acted as a data analyst exploring a real-world movie dataset. Using Python, Pandas, and Matplotlib, I filtered, sorted, and visualized data to uncover insights about what makes a movie successful — including trends around budgets, revenues, and ratings. The goal was to analyze patterns and present data-backed findings through clean and informative visualizations.  
