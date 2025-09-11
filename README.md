@@ -34,13 +34,6 @@ Here, you’ll find examples of my work in data analytics, data visualization, a
 
 **Skills:**  Excel, Data Cleaning, Pivot Tables, KPI Analysis, Chart Design, Sparklines, Conditional Formatting, Dashboard Creation, Microsoft Word.
 
-### [Introduction to Python](./Python)
-**Year:** 2024  
-
-**Summary:** This individual university assignment involved building five Python programs to apply core programming concepts in a business context. Tasks included calculating compound interest, generating employee paychecks with overtime and tax, converting CAD to USD using real-world exchange rates, and visualizing store sales with asterisks in a bar chart format. I followed structured design, used functions, and documented my work through screenshots and code explanations in a Word report.
-
-**Skills:** Python, Functions, Loops, User Input, Compound Interest Calculation, Currency Conversion, Microsoft Word, Visual Studio Code.
-
 ### [R Statistical Modeling Projects (STAT 2602)](./R_StatsProjects)
 
 **Year:** 2025  
