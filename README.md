@@ -34,7 +34,7 @@ Here, you’ll find examples of my work in data analytics, data visualization, a
 
 **Skills:**  Excel, Data Cleaning, Pivot Tables, KPI Analysis, Chart Design, Sparklines, Conditional Formatting, Dashboard Creation, Microsoft Word.
 
-### [R Statistical Modeling Projects (STAT 2602)](./R_StatsProjects)
+### [R Statistical Modeling Projects](./R_StatsProjects)
 
 **Year:** 2025  
 
